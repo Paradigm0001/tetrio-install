@@ -32,7 +32,6 @@ cat<<EOF
 Version=1.0
 Type=Application
 Name=Tetr.io
-GenericName=tetrio
 Comment=A modern online tetris clone with online mutiplayer, leaderboards and more.
 Icon=${TETRIODIR}/tetrio-color.png
 Exec=${TETRIODIR}/tetrio-desktop
