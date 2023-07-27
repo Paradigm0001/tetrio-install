@@ -21,16 +21,16 @@ Options:
 ```
 wget https://raw.githubusercontent.com/Paradigm0001/tetrio-install/main/tetrio-install.sh
 chmod 755 ./tetrio-install.sh
-./tetrio-install -l # Local install
+./tetrio-install -l
 ```
 ### OR
 ```
 git clone https://github.com/Paradigm0001/tetrio-install
 cd ./tetrio-install
 chmod 755 ./tetrio-install.sh
-./tetrio-install -l # Local install
+./tetrio-install -l
 ```
 
 ### TODO/Ideas:
-Impliment an uninstall argument. (Not very nessisary)
+Impliment an uninstall argument. (Not really necessary)
 Impliment an update argument. (Requires keeping track of or checking current TETR.io version)
